@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img-Honda-0113.jpg
+Ruta del archivo: C:\IA_Gpo3H\va_0113\ull-act1-va-0113\img-original-0113\img-Honda-0113.jpg
+Formato por extension: .JPG
+Tamano en bytes: 423362
+Tamano en KB: 413.44
+Tamano en MB: 0.4037
+
+DIMENSIONES
+-----------
+Ancho: 3200 pixeles
+Alto: 2400 pixeles
+Resolucion: 3200 x 2400
+Total de pixeles: 7,680,000
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 182.62
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 182.46
+Verde (G): 182.48
+Rojo (R): 182.92
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
